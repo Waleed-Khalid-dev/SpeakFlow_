@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+google-generativeai
+librosa
+webrtcvad
+openai-whisper
+numpy
+python-multipart
+python-dotenv

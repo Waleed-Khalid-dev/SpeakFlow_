@@ -1,0 +1,14 @@
+@echo off
+echo Starting SpeakFlow AI Backend and Frontend...
+
+:: Start the FastAPI Backend in a new command prompt window
+start "SpeakFlow Backend" cmd /k "cd backend && set PATH=d:\[Project]\SpeakFlow\backend;%PATH% && python -m uvicorn main:app --reload"
+
+:: Start the Next.js Frontend in a new command prompt window
+start "SpeakFlow Frontend" cmd /k "cd frontend && npm run dev"
+
+echo Both servers are starting up!
+echo The Backend will be available at http://127.0.0.1:8000
+echo The Frontend will be available at http://localhost:3000
+echo Please wait about 10 seconds for them to fully load.
+pause
