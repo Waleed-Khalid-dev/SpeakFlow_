@@ -5,17 +5,14 @@
 ---
 
 ## 🎥 5-Minute Demo Video
-*(Insert your YouTube/Google Drive link here. **Judges: Please start here!**)*
+[![SpeakFlow Demo Video](assets/YT_thumbnail.jpeg)](https://www.youtube.com/watch?v=rmZyfjMrfM0)
 
-## 📸 Platform Capabilities
-*(Upload Screenshot 1 here: Show the Session Telemetry Card displaying WPM and Accuracy)*
-**Figure 1:** Real-time acoustic telemetry extraction displaying Reading Rate (WPM) and phoneme-level accuracy.
 
-*(Upload Screenshot 2 here: Show the Agents at Work Card)*
-**Figure 2:** The Multi-Agent Orchestrator processing tasks asynchronously, ensuring a non-blocking UI.
 
-*(Upload Screenshot 3 here: Show the Targeted Practice Card with the advanced tongue-twisters)*
-**Figure 3:** Dynamic Edge-Case Handling: Gemma automatically generating advanced mastery exercises when a student achieves a flawless 100% read.
+
+
+
+
 
 ---
 
